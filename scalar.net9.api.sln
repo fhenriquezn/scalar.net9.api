@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scalar.net9.api", "scalar.net9.api\scalar.net9.api.csproj", "{C298A4F5-19BA-409F-A991-4E4BC17B05FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C298A4F5-19BA-409F-A991-4E4BC17B05FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C298A4F5-19BA-409F-A991-4E4BC17B05FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C298A4F5-19BA-409F-A991-4E4BC17B05FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C298A4F5-19BA-409F-A991-4E4BC17B05FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
